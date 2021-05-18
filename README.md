@@ -8,3 +8,5 @@ Industrial programming is boring for me, and I have been spending more and more 
 Because of Covid-19 (which is a blessing for me), I got a lot of free time on my hands. So for the past 7 months, every day,  I have been using the Unity Learn platform to learn how to create games. 
 
 My goals for life is to finish High school, enroll in a foreign university, and get a job as a developer or a programmer.
+
+[OMG There is an emoji cheat-sheet!!!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
