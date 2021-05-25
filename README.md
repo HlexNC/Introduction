@@ -10,3 +10,5 @@ Because of Covid-19 (which is a blessing for me), I got a lot of free time on my
 My goals for life are to finish High school, enroll in a foreign university, and get a job as a developer or a programmer.
 
 Follow me on Instagram:
+
+<img src="https://user-images.githubusercontent.com/66517969/119511852-7f578000-bd7b-11eb-9c86-4872d6aa1a4c.jpg" width="150px"> 
