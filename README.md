@@ -1,5 +1,5 @@
 ### Sup, I'm Hlex
-I'm currently 16 years old. Just wanted to give you all a quick (slow) introduction to myself. I hope you all accept me as a human.
+I'm currently 17 years old. Just wanted to give you all a quick (slow) introduction to myself. I hope you all accept me as a human.
 
 At the moment, I am learning C# and Unity game dev for myself.  I was born in the US but live in Russia.  My dream ever since I was a child, as far as I can remember, I wanted to be a creator. I know it's unclear but hear me out. I got my first computer when I turned 9. I also got a game named Minecraft for my birthday. I started coding simple commands like /time set, /give, /tp &amp; etc. Later I started to create houses with multiple command blocks. After my parents saw my skills, I started to attend the coding course "Schools of programmers" (or "Школы программистов" in Russian). There I learned languages like C++, Python, Html, CSS, C#, and a bit of JS. At this moment, I am learning Industrial programming.
 
@@ -9,4 +9,4 @@ Because of Covid-19 (which is a blessing for me), I got a lot of free time on my
 
 My goals for life is to finish High school, enroll in a foreign university, and get a job as a developer or a programmer.
 
-[OMG There is an emoji cheat-sheet!!!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+Follow me on instagram:
